@@ -1,8 +1,8 @@
 # Open in Excel
 
-> **This extension requires Microsoft Excel and one of the following clients to be installed:**
-> - [Visual Studio 2017](https://www.visualstudio.com/downloads/#visual-studio-enterprise-2017) or later        
-> - [Team Foundation Server Office® Integration 2017](https://www.visualstudio.com/downloads/#team-foundation-server-office-integration-2017) or later
+> **This extension requires Microsoft Excel and the Azure DevOps Office Integration add-on. There are two options for obtaining the add-on:**
+> - [Azure DevOps Office® Integration](https://visualstudio.microsoft.com/downloads/#azure-devops-office-integration-2019)
+> - [Full Visual Studio Installer](https://www.visualstudio.com/downloads)
 
 Use this extension for bulk editing work items, or to leverage Excel tools to analyze and visualize a large number of work items. Work items that are opened in Excel can be edited and published back to Azure DevOps with a single click. Once you are ready to publish your changes, simply hit "Publish" from Excel to sync your changes back to Azure DevOps. [Learn more about Office integration](https://www.visualstudio.com/da-dk/docs/work/office/bulk-add-modify-work-items-excel)
 
